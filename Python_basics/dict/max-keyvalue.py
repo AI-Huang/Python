@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Date    : Feb-21-20 00:15
-# @Author  : Kan HUANG (kan.huang@connect.ust.hk)
+# @Author  : Kan HUANG (kan.huang.hkust@gmail.com)
 
 import os
 

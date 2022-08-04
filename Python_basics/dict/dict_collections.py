@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Date    : Aug-04-22 14:28
-# @Author  : Kan HUANG (kan.huang@connect.ust.hk)
+# @Author  : Kan HUANG (kan.huang.hkust@gmail.com)
 
 
 class Computer:

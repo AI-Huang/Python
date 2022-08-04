@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Date    : Jun-02-20 00:50
-# @Author  : Kan HUANG (kan.huang@connect.ust.hk)
+# @Author  : Kan HUANG (kan.huang.hkust@gmail.com)
 
 def main():
     l = [1, 1, 1, 2, 2, 4, 5, 2, 3, 9]
